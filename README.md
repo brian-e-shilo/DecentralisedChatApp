@@ -87,3 +87,5 @@ For any inquiries or feedback, please reach out to us:
 - Email: brian.e.shilo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/brian-e-shilo/
 - GitHub: https://github.com/brianeshilo
+
+Thank you to several other similiar apps already on GitHub, which were an inspiration indeed!
